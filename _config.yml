@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 卜先生 
+title: 胡伟煌 
 subtitle: 个人博客
-author: 卜先生
+author: 胡伟煌
 language:
 timezone:
 
@@ -21,7 +21,7 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: 卜先生 | Blog
+SEOTitle: 胡伟煌 | Blog
 email: e-mail_address
 description: ""
 keyword: ""
@@ -36,7 +36,7 @@ signature-img: img/signature/BeanTechSign-white.png
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    BYX-CY
+github_username:    huweihuang
 # twitter_username:   Demonbane_x
 # facebook_username:  xxx
 # linkedin_username:  xxx
@@ -219,7 +219,7 @@ index_generator_plus:
   per_page: 10
 
 ## Themes: https://hexo.io/themes/
-theme: BYX-CY
+theme: huweihuang
 
 #sitemap
 sitemap:
@@ -231,6 +231,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/BYX-CY/BYX-CY.github.io
+  repository: https://github.com/huweihuang/hexo-theme-huweihuang
   branch: gh-pages
   message: Update CNAME
